@@ -1,0 +1,10 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url("fonts/Actor-Regular.ttf");
+}
+td{
+	font-size: 12px;
+}
+th{
+	font-size: 14px;
+}
